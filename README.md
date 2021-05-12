@@ -1,2 +1,2 @@
-# React_Javascript-ES6-Import-Export-and-Modules-Practice
+# React_Javascript-ES6-Import-Export-and-Modules
 Created with CodeSandbox
